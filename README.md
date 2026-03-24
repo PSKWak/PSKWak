@@ -3,7 +3,7 @@
 <div align="center">
 
 ```
-Just because you can build something with AI —
+Just because you can build something with AI
 does that mean you should?
 ```
 
