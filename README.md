@@ -1,14 +1,11 @@
 # Hi, I'm Pranjal Wakpaijan 👋
 
 <div align="center">
-
 ```
-Just because you can build something with AI
+Just because you can build something with AI —
 does that mean you should?
 ```
-
-*I ask that before every project.*
-
+I ask that before every project.
 </div>
 
 ---
