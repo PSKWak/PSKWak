@@ -1,4 +1,4 @@
-## Hi there 👋
+## Just because you can build something with AI, does that mean you should?
 
 <!--
 **PSKWak/PSKWak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
