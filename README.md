@@ -114,8 +114,9 @@ A right-skewed distribution hiding in a date column most people would have dropp
 ## Writing
 <div align="center">
  
-[AI Models Waste Up to 20% Compute Thinking About Nothing](https://medium.com/@pranjalwakpaijan/ai-models-waste-up-to-20-compute-thinking-about-nothing-6f6fd9570abb) — LLM overthinking, inspired by a paper and Aristotle's concept of misdirected mental activity.
- 
+[AI Models Waste Up to 20% Compute Thinking About Nothing](https://medium.com/@pranjalwakpaijan/ai-models-waste-up-to-20-compute-thinking-about-nothing-6f6fd9570abb) 
+[When Gradient Descent Runs Out of Tangents](https://medium.com/@pranjalwakpaijan/when-gradient-descent-runs-out-of-tangents-baef4b2ef69e)
+[Convex Optimization](https://medium.com/@pranjalwakpaijan/mathematical-optimization-92f52e94b8d0)
 ---
 
 ## Let's Talk
