@@ -113,18 +113,14 @@ A right-skewed distribution hiding in a date column most people would have dropp
  
 ## Writing
 <div align="center">
- <details>
-[AI Models Waste Up to 20% Compute Thinking About Nothing](https://medium.com/@pranjalwakpaijan/ai-models-waste-up-to-20-compute-thinking-about-nothing-6f6fd9570abb) 
- </details>
- <br>
- <details>
-[When Gradient Descent Runs Out of Tangents](https://medium.com/@pranjalwakpaijan/when-gradient-descent-runs-out-of-tangents-baef4b2ef69e)
- </details>
-<br> 
- <details>
-[Convex Optimization](https://medium.com/@pranjalwakpaijan/mathematical-optimization-92f52e94b8d0)
- </details>details>
- ---
+
+AI Models Waste Up to 20% Compute Thinking About Nothing
+
+When Gradient Descent Runs Out of Tangents
+
+Convex Optimization
+
+</div>
 
 ## Let's Talk
 
