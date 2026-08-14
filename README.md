@@ -110,19 +110,12 @@ A right-skewed distribution hiding in a date column most people would have dropp
 </div>
 
 ---
-
-## Currently
-
+ 
+## Writing
 <div align="center">
-
-🎓 **MS Data Science** · George Washington University · May 2026 · GPA 3.7
-
-🏛 **Data Analyst Extern** · International Monetary Fund · Washington DC
-
-📍 Open to relocate · Seeking roles where the output matters outside the building
-
-</div>
-
+ 
+[AI Models Waste Up to 20% Compute Thinking About Nothing](https://medium.com/@pranjalwakpaijan/ai-models-waste-up-to-20-compute-thinking-about-nothing-6f6fd9570abb) — LLM overthinking, inspired by a paper and Aristotle's concept of misdirected mental activity.
+ 
 ---
 
 ## Let's Talk
