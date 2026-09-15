@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://api.dicebear.com/7.x/lorelei/svg?seed=Pranjal&backgroundColor=b6e3f4,c0aede,d1d4f9&backgroundType=gradientLinear" width="150" height="150" alt="Profile Avatar" style="border-radius: 50%;" />
-
 # Pranjal Wakpaijan
 
 ### *"In a world where you can be anything, be kind."*
