@@ -1,12 +1,16 @@
 <div align="center">
 
+<img src="https://api.dicebear.com/7.x/lorelei/svg?seed=Pranjal&backgroundColor=b6e3f4,c0aede,d1d4f9&backgroundType=gradientLinear" width="150" height="150" alt="Profile Avatar" style="border-radius: 50%;" />
+
 # Pranjal Wakpaijan
+
+### *"In a world where you can be anything, be kind."*
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=MS+Data+Science+%7C+GWU;Former+IMF+Data+Analyst+Extern;AI+Alignment+%26+Mechanistic+Interpretability;Building+AI+for+Good" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjal-w)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-w/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pranjalwakpaijan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjalwakpaijan@gmail.com)
 
@@ -14,17 +18,20 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
 
 ### About Me
 
-I once built an AI agent at the IMF that nobody asked me to build.  
-It went live with real users. I presented it to senior officers.  
+I once built an AI agent at the IMF that nobody asked me to build.
+It went live with real users. I presented it to senior officers.
 They approved it and extended my externship.
 
 **That is how I work.**
 
-- 🔬 Building toward a **PhD in AI Alignment & Interpretability**
+I'm a data scientist with a genuine, wide-ranging curiosity — the kind that doesn't stay in one lane. My core is applied ML and AI safety: I spend most of my time thinking about mechanistic interpretability, reinforcement learning, and how to make AI systems behave the way we actually intend them to, from red-teaming physical AI policies to tracing why models make the choices they do. But I'm just as pulled toward the human and systemic side of technology — how AI reshapes labor markets, where it introduces risk into institutions like courts and financial systems, and what happens when models meet messy, real-world data instead of clean benchmarks.
+
+That curiosity doesn't stop at AI. I write about convex optimization and gradient descent one week and global bond markets the next, because I like understanding *why* systems behave the way they do, whether that system is a neural network, an economy, or an institution. I've built things end-to-end — an AI agent adopted by senior officers at the IMF, a multi-agent robotics safety harness, pipelines that turn messy documents into structured, trustworthy data — because I'd rather test an idea in the real world than leave it as a slide.
+
 - 🌍 Former **IMF Extern** — Washington DC
 - 🤖 Deep interest in **Mechanistic Interpretability & RL**
 - 📊 Independent research on **AI & Labor Market Displacement**
@@ -77,33 +84,21 @@ They approved it and extended my externship.
 
 <div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| 🤖 **ALEX** | AI agent built at IMF on institutional docs. RAG + RBAC + self-improving KB. Approved by senior officers. | Claude API · Supabase · RAG |
-| ⚡ **Saffron AI** | 19-node LangGraph state machine. Separates LLM reasoning from deterministic logic. 50+ regression tests. | LangGraph · FastAPI · Docker |
-| 🌍 **Carbon & Capital** | 12 years of global climate finance flows. Identified green finance vs adaptation gaps. | Python · UNFCCC · EDGAR · Tableau |
-| 🗺️ **World Bank Pipeline** | Automated pipeline harmonizing macro indicators across 200+ countries. | Python · World Bank API |
-| 🧠 **Neural Architecture Eval** | 4-way comparison across 2.1M records. Diagnosed failure modes hidden by aggregate metrics. | PyTorch · Flan-T5 · GNN |
-| ✈️ **PivotMyTrip** | Real-time AI travel system. Voice input, GPS recalibration, digital twin simulator. | Whisper · GPS · Next.js |
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| 🤖 **ALEX** | AI agent built at IMF on institutional docs. RAG + RBAC + self-improving KB. Approved by senior officers. | Claude API · Supabase · RAG | [Demo Video](#) |
+| 🛡️ **Phronesis** | Multi-agent safety validation system for physical AI/robotics — red-team, physics shield, vision, and compliance agents. | Next.js · Python · MuJoCo | [Live Site](#) |
+| ⚡ **Saffron AI** | 19-node LangGraph state machine. Separates LLM reasoning from deterministic logic. 50+ regression tests. | LangGraph · FastAPI · Docker | — |
+| 📄 **ContextForge** | AI pipeline converting unstructured research PDFs into structured, human-validated metadata. | Python · Llama 3.1 · Streamlit | [Demo Video](#) |
+| ⚖️ **AI in Litigation** | Applied AI research on AI's role and risk in legal/litigation contexts. | Python | [Demo Video](#) |
+| 🌍 **Carbon & Capital** | 12 years of global climate finance flows. Identified green finance vs adaptation gaps. | Python · UNFCCC · EDGAR · Tableau | — |
+| 🗺️ **World Bank Pipeline** | Automated pipeline harmonizing macro indicators across 200+ countries. | Python · World Bank API | — |
+| 🧠 **Neural Architecture Eval** | 4-way comparison across 2.1M records. Diagnosed failure modes hidden by aggregate metrics. | PyTorch · Flan-T5 · GNN | — |
+| ✈️ **PivotMyTrip** | Real-time AI travel system. Voice input, GPS recalibration, digital twin simulator. | Whisper · GPS · Next.js | [Demo Video](#) |
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PSKWak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSKWak&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PSKWak&theme=tokyonight)
-
-</div>
+> 📌 *Demo video and live site links above are placeholders — swap in the actual URLs when ready.*
 
 ---
 
@@ -138,7 +133,12 @@ They approved it and extended my externship.
 
 ### 💬 What drives me
 
-*"I stay up until 3am not because a deadline demands it — but because the question is not resolved yet and that bothers me more than the hour."*
+*"In a world where you can be anything, be kind."*
+
+<br/>
+
+*"Know all the theories, master all the techniques, but as you touch a human soul be just another human soul."*
+**— C.G. Jung**
 
 <br/>
 
