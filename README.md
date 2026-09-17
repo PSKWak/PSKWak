@@ -2,7 +2,7 @@
 
 # Pranjal Wakpaijan
 
-### Philomath · Applied ML & AI
+### Applied ML & AI
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=580&lines=MS+Data+Science+%7C+GWU;Former+IMF+Data+Analyst+Extern;Applied+ML+%26+AI+Systems;Learning+AI+Alignment+%26+Interpretability" alt="Typing SVG" />
 
