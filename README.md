@@ -1,21 +1,29 @@
 # Hi, I'm Pranjal 👋
 
-I build AI systems that bridge technical complexity and real-world needs. With a background in Electronics & Telecommunication and an M.S. in Data Science, I'm interested in how intelligent systems reason, where they fail, and how we can make them more reliable and human-centered.
+I'm a curious, high-ownership builder who turns ambiguous problems into something real. I learn by building, testing, questioning assumptions, and iterating, not by waiting for a perfect roadmap. I'm comfortable stepping into unfamiliar areas, working with different people, and taking an idea from *"What if?"* to a working solution.
 
-My work spans agentic AI, applied machine learning, and evaluation — from building safety layers for physical AI to turning unstructured information into trustworthy, usable knowledge.
+With a background in Electronics & Telecommunication and an M.S. in Data Science (GWU), I work across agentic AI, applied machine learning, and evaluation: from safety layers for physical AI to turning unstructured information into trustworthy, usable knowledge. I care about both the technical details and the people affected by what I build.
 
+Curiosity, persistence, humility, and a bias toward action are what I bring, and I'm always looking for the next hard problem worth solving.
+
+- 🌍 Former **IMF Extern**, Washington, DC
+- 🏛️ **Delegate**: World Bank Group Youth Summit ('25, '26) · GLF Nairobi ('22)
+- 🤖 Learning **Mechanistic Interpretability**, building toward real alignment research
+- 📊 Independent research on **AI & Labor Market Displacement**
+- ⚔️ National **Fencing Gold Medalist**
 
 ---
 
 ## Featured Projects
 
-| Project | Focus | Stack | Demo |
+| Project | The question it answers | Stack | Demo |
 |---|---|---|---|
-| [**Phronesis**](https://github.com/PSKWak/phronesis) | Physical AI safety · Multi-agent systems · Real-time guardrails | Python · TypeScript · MuJoCo | [🌐 Live Demo](#) |
-| [**ContextForge**](https://github.com/PSKWak/ContextForge) | Document intelligence · Structured extraction · Human-in-the-loop validation | Python · LLMs · Streamlit · Supabase | [🌐 Live Demo](#) |
-| **PivotMyTrip** | Adaptive travel · Voice AI · Context-aware recommendations | TypeScript · AI APIs · Geospatial | [🌐 Live Demo](#) |
-| **Roots & Routes** | Community-driven tourism · Cultural storytelling · Sustainable livelihoods | AI · Mobile · Geospatial | [🌐 Live Demo](#) |
-| **Deep Space** | Astronomical data · Machine learning · Scientific discovery | Python · PyTorch · Data Visualization | [🌐 Live Demo](#) |
+| [**Phronesis**](https://github.com/PSKWak/phronesis) | Who tests a robot's AI before it meets the real world? A red-team agent, a physics-grounded shield, a vision agent, and a compliance agent, with reproducible seeded runs. | Python · TypeScript · MuJoCo | [🌐 Live Demo](https://phronesis-khaki.vercel.app/) |
+| [**Corvex**](https://github.com/PSKWak/Corvex-Multi-source-RAG) | How do you stop RAG from confidently making things up? Self-verification, prompt-injection defense, and PII checks, evaluated with RAGAS. | Python · RAG · RAGAS | [✅ Repo](https://github.com/PSKWak/Corvex-Multi-source-RAG) |
+| [**ContextForge**](https://github.com/PSKWak/ContextForge) | Can messy research PDFs become trustworthy data? Regex extraction, LLM-drafted judgment, human review, and precision/recall/F1 tracking. | Python · LLMs · Streamlit · Supabase | [✅ Repo](https://github.com/PSKWak/ContextForge) |
+| [**Roots & Routes**](https://github.com/PSKWak/rootsandroutesnoor) | How can local tourism operators overcome language and connectivity barriers? Offline-first, on-device voice AI. | TypeScript · On-device AI · Voice AI | [🌐 Live Demo](https://rootsandroutesnoor.lovable.app/) |
+| [**GhostGTM**](https://github.com/PSKWak/ghostgtm-prototype) | What happens after the sales call ends? Customer context → executed action → validated learning. | TypeScript · Vercel | [🌐 Live Demo](https://ghostgtm-prototype.vercel.app/workspace) |
+| [**Deep Field**](https://github.com/PSKWak/deep-field) | What if space exploration ran on real NASA data? A 3D explorer with a Kepler exoplanet-hunting lab. | Next.js · React Three Fiber · Tailwind | [🌐 Live Demo](https://deep-field-blue.vercel.app/) |
 
 ---
 
@@ -24,16 +32,11 @@ My work spans agentic AI, applied machine learning, and evaluation — from buil
 ```python
 skills = {
     "languages": ["Python", "TypeScript", "SQL", "R"],
-    "ai_ml": ["PyTorch", "Hugging Face", "Transformers", "scikit-learn"],
-    "agentic_ai": ["LangGraph", "LangChain", "RAG", "LLM Evaluation"],
-    "backend": ["FastAPI", "Node.js", "PostgreSQL", "Supabase"],
-    "tools": ["Docker", "Git", "Streamlit", "Power BI"],
-    "interests": [
-        "AI Alignment",
-        "Mechanistic Interpretability",
-        "Reliable AI Systems",
-        "Human-Centered Design"
-    ]
+    "ai_ml":     ["PyTorch", "Hugging Face", "Transformers", "scikit-learn"],
+    "agentic":   ["LangGraph", "LangChain", "RAG", "LLM Evaluation"],
+    "backend":   ["FastAPI", "Node.js", "PostgreSQL", "Supabase"],
+    "tools":     ["Docker", "Git", "Streamlit", "Power BI"],
+    "interests": ["AI Alignment", "Mechanistic Interpretability", "Reliable AI Systems", "Human-Centered Design"],
 }
 ```
 
@@ -41,10 +44,9 @@ skills = {
 
 ## Background
 
-- **IMF:** Data analysis, institutional dashboards, and an AI-powered knowledge assistant.
-- **Research:** Exploring AI alignment, mechanistic interpretability, and AI's impact on labor markets.
+- **IMF:** Data analysis, institutional dashboards, and ALEX, an AI-powered knowledge assistant adopted by real users and presented to senior officers.
+- **Research:** AI alignment, mechanistic interpretability, and AI's impact on labor markets.
 - **Global Engagement:** World Bank Group Youth Summit (2025, 2026), GLF Nairobi, and international youth initiatives.
-- **Writing:** Sharing explorations of neural networks, mathematical optimization, and the questions shaping AI.
 
 ---
 
@@ -65,7 +67,6 @@ skills = {
 <div align="center">
 
 *"Know all the theories, master all the techniques, but as you touch a human soul be just another human soul."*
-
 — C.G. Jung
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-w/)
