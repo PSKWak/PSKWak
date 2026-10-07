@@ -6,11 +6,9 @@ With a background in Electronics & Telecommunication and an M.S. in Data Science
 
 Curiosity, persistence, humility, and a bias toward action are what I bring, and I'm always looking for the next hard problem worth solving.
 
-- 🌍 Former **IMF Extern**, Washington, DC
-- 🏛️ **Delegate**: World Bank Group Youth Summit ('25, '26) · GLF Nairobi ('22)
-- 🤖 Learning **Mechanistic Interpretability**, building toward real alignment research
-- 📊 Independent research on **AI & Labor Market Displacement**
-- ⚔️ National **Fencing Gold Medalist**
+- 🌍 Former **IMF Data Science Extern**, Washington, DC
+- 🏛️ **Delegate**: World Bank Group Youth Summit ('25, '26) · International Youth Conference ('26) · GLF Nairobi ('22)
+- 📊 Research on **Evaluating Causal, Temporal, Multi-Hop, and Counterfactual Reasoning in Financial Large Language Models**
 
 ---
 
@@ -36,23 +34,16 @@ skills = {
     "agentic":   ["LangGraph", "LangChain", "RAG", "LLM Evaluation"],
     "backend":   ["FastAPI", "Node.js", "PostgreSQL", "Supabase"],
     "tools":     ["Docker", "Git", "Streamlit", "Power BI"],
-    "interests": ["AI Alignment", "Mechanistic Interpretability", "Reliable AI Systems", "Human-Centered Design"],
+    "interests": ["AI Alignment", "Mechanistic Interpretability", "Reliable AI Systems", "Human-Centered Design","Reinforcement Learning"],
 }
 ```
 
 ---
 
-## Background
-
-- **IMF:** Data analysis, institutional dashboards, and ALEX, an AI-powered knowledge assistant adopted by real users and presented to senior officers.
-- **Research:** AI alignment, mechanistic interpretability, and AI's impact on labor markets.
-- **Global Engagement:** World Bank Group Youth Summit (2025, 2026), GLF Nairobi, and international youth initiatives.
-
----
 
 ## Currently Exploring
 
-`Mechanistic Interpretability` · `AI Alignment` · `Agentic Evaluation` · `Reliable AI Systems`
+`Mechanistic Interpretability` · `AI Alignment` · `Agentic Evaluation` · `Reliable AI Systems` · `Reinforcement Learning`
 
 ---
 
