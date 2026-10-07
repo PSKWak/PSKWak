@@ -34,7 +34,7 @@ skills = {
     "agentic":   ["LangGraph", "LangChain", "RAG", "LLM Evaluation"],
     "backend":   ["FastAPI", "Node.js", "PostgreSQL", "Supabase"],
     "tools":     ["Docker", "Git", "Streamlit", "Power BI"],
-    "interests": ["AI Alignment", "Mechanistic Interpretability", "Reliable AI Systems", "Human-Centered Design","Reinforcement Learning"],
+    "interests": ["AI Alignment", "Reliable AI Systems", "Human-Centered Design","Reinforcement Learning"],
 }
 ```
 
