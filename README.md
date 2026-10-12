@@ -18,7 +18,6 @@ Curiosity, persistence, humility, and a bias toward action are what I bring, and
 |---|---|---|---|
 | [**Phronesis**](https://github.com/PSKWak/phronesis) | Who tests a robot's AI before it meets the real world? | Python · TypeScript · MuJoCo | [🌐 Live Demo](https://phronesis-khaki.vercel.app/) |
 | [**Corvex**](https://github.com/PSKWak/Corvex-Multi-source-RAG) | How do you stop RAG from confidently making things up? | Python · RAG · RAGAS | [✅ Repo](https://github.com/PSKWak/Corvex-Multi-source-RAG) |
-| [**ContextForge**](https://github.com/PSKWak/ContextForge) | Can messy research PDFs become trustworthy data? | Python · LLMs · Streamlit · Supabase | [✅ Repo](https://github.com/PSKWak/ContextForge) |
 | [**Roots & Routes**](https://github.com/PSKWak/rootsandroutesnoor) | How can local tourism operators overcome language and connectivity barriers? Offline-first, on-device voice AI. | TypeScript · On-device AI · Voice AI | [🌐 Live Demo](https://rootsandroutesnoor.lovable.app/) |
 | [**GhostGTM**](https://github.com/PSKWak/ghostgtm-prototype) | What happens after the sales call ends? | TypeScript · Vercel | [🌐 Live Demo](https://ghostgtm-prototype.vercel.app/workspace) |
 | [**Deep Field**](https://github.com/PSKWak/deep-field) | What if space exploration ran on real NASA data? A 3D explorer with a Kepler exoplanet-hunting lab. | Next.js · React Three Fiber · Tailwind | [🌐 Live Demo](https://deep-field-blue.vercel.app/) |
